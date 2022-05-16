@@ -16,3 +16,6 @@ Understar the relation between variables.
 2. Clean the data: remove noise data.
 3. Analyses the relation between variables.
 
+## Basic functions in EDA
+
+  - pd.data_csv('database.csv')
